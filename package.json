@@ -1,6 +1,7 @@
 {
   "name": "netactionnaire",
   "version": "0.1.0",
+  "author": "Soetch",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
